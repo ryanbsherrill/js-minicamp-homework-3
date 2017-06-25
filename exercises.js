@@ -7,6 +7,7 @@ function makeCat(name, age) {
   //add an age property to the object with the value set to the age argument
   //add a method called meow that returns the string 'Meow!'
   //return the object
+
 }
 
 function addProperty(object, property) {
